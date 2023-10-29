@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\bin\Debug\OOPApplication.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\bin\Debug\OOPApplication.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\bin\Debug\OOPApplication.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\obj\Debug\OOPApplication.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\obj\Debug\OOPApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\obj\Debug\OOPApplication.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\OOPApplication\obj\Debug\OOPApplication.pdb
