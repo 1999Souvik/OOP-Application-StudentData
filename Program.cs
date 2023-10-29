@@ -32,8 +32,6 @@ namespace OOPApplication
 
             teachers[0].SubjectsTaught.Add(subjects[0]);
             teachers[2].SubjectsTaught.Add(subjects[0]);
-            teachers[1].SubjectsTaught.Add(subjects[1]);
-            teachers[0].SubjectsTaught.Add(subjects[2]);
             teachers[1].SubjectsTaught.Add(subjects[2]); 
             teachers[2].SubjectsTaught.Add(subjects[2]); 
 
@@ -43,19 +41,8 @@ namespace OOPApplication
             foreach (var teacher in teachers)
             {
                 Console.WriteLine($"For Teacher: {teacher.Name}");
-                string input = Console.ReadLine();
-                string[] subjectNames = input.Split(',');
-                
-                foreach (var subjectName in subjectNames)
-                {
-                    Subject subject = subjects.FirstOrDefault(s => s.Name == subjectName.Trim());
-                    if (subject != null)
-                    {
-                        teacher.SubjectsTaught.Add(subject);
-                    }
-                }
+        
             }
-
 
 
             students.DisplayStudentsInClass("Class 12");
